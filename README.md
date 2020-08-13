@@ -9,3 +9,4 @@
     * Use-case
     * Szekvencia
     * Class
+  * Dokumentáció írás
